@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ku-awdc/ku-awdc.r-universe.dev
 	branch = HEAD
-[submodule "runjags"]
-	path = runjags
-	url = https://github.com/ku-awdc/runjags
+[submodule "IPDMR"]
+	path = IPDMR
+	url = https://github.com/ku-awdc/IPDMR
