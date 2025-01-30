@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/ku-awdc/ku-awdc.r-universe.dev
 	branch = HEAD
+[submodule "EpiLinx"]
+	path = EpiLinx
+	url = https://github.com/ku-awdc/EpiLinx
+	branch = *release
 [submodule "IPDMR"]
 	path = IPDMR
 	url = https://github.com/ku-awdc/IPDMR
