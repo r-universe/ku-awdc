@@ -9,4 +9,4 @@
 [submodule "IPDMR"]
 	path = IPDMR
 	url = https://github.com/ku-awdc/IPDMR
-	branch = v0.5.0
+	branch = v0.5.2
