@@ -13,4 +13,4 @@
 [submodule "koalas"]
 	path = koalas
 	url = https://github.com/ku-awdc/koalas
-	branch = *release
+	branch = V0.3.0
