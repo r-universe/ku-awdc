@@ -10,3 +10,7 @@
 	path = IPDMR
 	url = https://github.com/ku-awdc/IPDMR
 	branch = v0.5.2
+[submodule "koalas"]
+	path = koalas
+	url = https://github.com/ku-awdc/koalas
+	branch = *release
