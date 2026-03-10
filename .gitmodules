@@ -13,7 +13,7 @@
 [submodule "PTBinteRface"]
 	path = PTBinteRface
 	url = https://github.com/ku-awdc/PTBinteRface
-	branch = *release
+	branch = v0.2.2
 [submodule "koalas"]
 	path = koalas
 	url = https://github.com/ku-awdc/koalas
