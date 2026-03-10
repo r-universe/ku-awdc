@@ -10,6 +10,10 @@
 	path = IPDMR
 	url = https://github.com/ku-awdc/IPDMR
 	branch = v0.5.2
+[submodule "PTBinteRface"]
+	path = PTBinteRface
+	url = https://github.com/ku-awdc/PTBinteRface
+	branch = *release
 [submodule "koalas"]
 	path = koalas
 	url = https://github.com/ku-awdc/koalas

@@ -10,5 +10,9 @@
   {
     "package": "EpiLinx",
     "releasetag": true
+  },
+  {
+    "package": "PTBinteRface",
+    "releasetag": true
   }
 ]
