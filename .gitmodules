@@ -18,3 +18,7 @@
 	path = koalas
 	url = https://github.com/ku-awdc/koalas
 	branch = v0.5.0
+[submodule "qs"]
+	path = qs
+	url = https://github.com/ku-awdc/qs
+	branch = *release

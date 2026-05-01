@@ -4,6 +4,10 @@
     "releasetag": true
   },
   {
+    "package": "qs",
+    "releasetag": true
+  },
+  {
     "package": "koalas",
     "releasetag": true
   },
