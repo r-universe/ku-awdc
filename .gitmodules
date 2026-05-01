@@ -21,4 +21,4 @@
 [submodule "qs"]
 	path = qs
 	url = https://github.com/ku-awdc/qs
-	branch = *release
+	branch = Final
