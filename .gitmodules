@@ -5,7 +5,7 @@
 [submodule "EpiLinx"]
 	path = EpiLinx
 	url = https://github.com/ku-awdc/EpiLinx
-	branch = v0.2.0
+	branch = v0.2.1
 [submodule "IPDMR"]
 	path = IPDMR
 	url = https://github.com/ku-awdc/IPDMR
