@@ -13,7 +13,7 @@
 [submodule "JAGSmodule"]
 	path = JAGSmodule
 	url = https://github.com/mdenwood/JAGSmodule
-	branch = *release
+	branch = 0.9.0
 [submodule "PTBinteRface"]
 	path = PTBinteRface
 	url = https://github.com/ku-awdc/PTBinteRface
@@ -29,4 +29,4 @@
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/mdenwood/rjags
-	branch = *release
+	branch = 4-18
