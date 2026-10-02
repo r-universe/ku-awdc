@@ -18,5 +18,13 @@
   {
     "package": "PTBinteRface",
     "releasetag": true
+  },
+  {
+    "package": "rjags",
+    "releasetag": true
+  },
+  {
+    "package": "JAGSmodule",
+    "releasetag": true
   }
 ]

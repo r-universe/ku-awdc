@@ -10,6 +10,10 @@
 	path = IPDMR
 	url = https://github.com/ku-awdc/IPDMR
 	branch = v0.5.2
+[submodule "JAGSmodule"]
+	path = JAGSmodule
+	url = https://github.com/mdenwood/JAGSmodule
+	branch = *release
 [submodule "PTBinteRface"]
 	path = PTBinteRface
 	url = https://github.com/ku-awdc/PTBinteRface
@@ -22,3 +26,7 @@
 	path = qs
 	url = https://github.com/ku-awdc/qs
 	branch = Final
+[submodule "rjags"]
+	path = rjags
+	url = https://github.com/mdenwood/rjags
+	branch = *release
