@@ -29,4 +29,4 @@
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/mdenwood/rjags
-	branch = 4-18-2
+	branch = 4-18-3
