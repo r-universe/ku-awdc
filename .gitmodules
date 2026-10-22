@@ -33,4 +33,4 @@
 [submodule "runjags"]
 	path = runjags
 	url = https://github.com/ku-awdc/runjags
-	branch = *release
+	branch = 2.3.0-1
