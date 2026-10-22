@@ -30,3 +30,7 @@
 	path = rjags
 	url = https://github.com/mdenwood/rjags
 	branch = 4-18-11
+[submodule "runjags"]
+	path = runjags
+	url = https://github.com/ku-awdc/runjags
+	branch = *release

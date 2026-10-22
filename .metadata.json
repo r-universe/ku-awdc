@@ -24,6 +24,10 @@
     "releasetag": true
   },
   {
+    "package": "runjags",
+    "releasetag": true
+  },
+  {
     "package": "JAGSmodule",
     "releasetag": true
   }
