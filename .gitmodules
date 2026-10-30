@@ -29,7 +29,7 @@
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/mdenwood/rjags
-	branch = 4-19-4
+	branch = 4-19-5
 [submodule "runjags"]
 	path = runjags
 	url = https://github.com/ku-awdc/runjags
