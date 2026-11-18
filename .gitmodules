@@ -26,10 +26,6 @@
 	path = qs
 	url = https://github.com/ku-awdc/qs
 	branch = Final
-[submodule "rjags"]
-	path = rjags
-	url = https://github.com/mdenwood/rjags
-	branch = 4-19-7
 [submodule "runjags"]
 	path = runjags
 	url = https://github.com/ku-awdc/runjags
