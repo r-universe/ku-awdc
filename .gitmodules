@@ -29,8 +29,8 @@
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/mdenwood/rjags
-	branch = *release
+	branch = 5-6-1
 [submodule "runjags"]
 	path = runjags
 	url = https://github.com/ku-awdc/runjags
-	branch = 2.3.0-5
+	branch = 2.3.2-1
